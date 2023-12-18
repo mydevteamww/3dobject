@@ -3,10 +3,10 @@
   "description": "3D Object Maker Software APP",
   "dir": "ltr",
   "display": "standalone",
-  "name": "3D Object Maker",
+  "name": "3D Object Maker:Pro",
   "orientation": "any",
   "scope": "/",
-  "short_name": "3D Object Maker",
+  "short_name": "3D Object Maker:Pro",
   "start_url": "/",
   "theme_color": "#ffffff",
   "categories": [
@@ -48,7 +48,7 @@
   ],
   "shortcuts": [
     {
-      "name": "3D Object Maker",
+      "name": "3D Object Maker:Pro",
       "url": "",
       "description": ""
     }
